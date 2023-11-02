@@ -1,6 +1,5 @@
-.container{
-    margin-left: 100px;
-    margin-right: 100px;
+h4{
+    color: white;
 }
 
 .option {
@@ -8,9 +7,7 @@
     border-color: #9f8772;
     color: #9f8772;
     border-width: 1px;
-    width: 150px;
     height: 50px;
-    font-size: 12px; 
     font-weight: bold;
     margin-top: 10px;
     margin-left: 70px;
@@ -19,12 +16,11 @@
 .cadastrar{
     background-color: #9f8772;
     border-color: #ede4e0;
-    color: white;
     border-width: 3px;
-    width: 400px;
-    height: 90px;
-    font-size: 22px; 
+    height: 80px; 
     font-weight: bold;
-    margin-top: 100px;
+    margin-top: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
     box-shadow: 3px 3px 2px 1px #ede4e0;
 }
