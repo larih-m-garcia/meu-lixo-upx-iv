@@ -10,6 +10,7 @@ import { MenuLocalDescarteComponent } from './menu-local-descarte/menu-local-des
 import { CadastroLocalDescarteComponent } from './cadastro-local-descarte/cadastro-local-descarte.component';
 import { AtuaizarLocalDescarteComponent } from './atuaizar-local-descarte/atuaizar-local-descarte.component';
 import { ExcluirLocalDescarteComponent } from './excluir-local-descarte/excluir-local-descarte.component';
+import { AtualizarLocalDescarteComponent } from './atualizar-local-descarte/atualizar-local-descarte.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { ExcluirLocalDescarteComponent } from './excluir-local-descarte/excluir-
     CadastroLocalDescarteComponent,
     AtuaizarLocalDescarteComponent,
     ExcluirLocalDescarteComponent,
+    AtualizarLocalDescarteComponent,
   ],
   imports: [
     BrowserModule,
