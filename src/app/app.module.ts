@@ -8,7 +8,6 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { BuscarLocalDescarteComponent } from './buscar-local-descarte/buscar-local-descarte.component';
 import { MenuLocalDescarteComponent } from './menu-local-descarte/menu-local-descarte.component';
 import { CadastroLocalDescarteComponent } from './cadastro-local-descarte/cadastro-local-descarte.component';
-import { AtuaizarLocalDescarteComponent } from './atuaizar-local-descarte/atuaizar-local-descarte.component';
 import { ExcluirLocalDescarteComponent } from './excluir-local-descarte/excluir-local-descarte.component';
 import { AtualizarLocalDescarteComponent } from './atualizar-local-descarte/atualizar-local-descarte.component';
 
@@ -19,7 +18,6 @@ import { AtualizarLocalDescarteComponent } from './atualizar-local-descarte/atua
     BuscarLocalDescarteComponent,
     MenuLocalDescarteComponent,
     CadastroLocalDescarteComponent,
-    AtuaizarLocalDescarteComponent,
     ExcluirLocalDescarteComponent,
     AtualizarLocalDescarteComponent,
   ],
