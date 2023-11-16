@@ -1,0 +1,40 @@
+.titulo {
+    color: #665a48;
+    margin: auto;
+    text-align: center;
+    font-family: "Baloo 2";
+  }
+  .card {
+    width: 750px;
+    height: 420px;
+    margin: auto;
+    margin-top: 40px;
+    background-color: #edfaea;
+  }
+  .card2 {
+    width: 750px;
+    height: 357px;
+    margin-top: 43px;
+    margin-bottom: 50px;
+    background-color: #edfaea;
+  }
+  .card-titulo {
+    font-family: "Baloo 2";
+    color: #7a7a7a;
+  }
+  
+  .input {
+    margin-bottom: 10px;
+  }
+  .btn-voltar {
+    background-color: #f0f0f0;
+    margin-bottom: 10px;
+    margin-left: 75%;
+    margin-top: 15px;
+  }
+  .btn-delete {
+    background-color: #f0f0f0;
+    margin-bottom: 10px;
+    margin-top: 15px;
+  }
+  
