@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
+import { FormsModule } from '@angular/forms';
 import { BrowserModule } from '@angular/platform-browser';
-
 import { AppComponent } from './app.component';
 import { TelaInicialComponent } from './tela-inicial/tela-inicial.component';
 import { AppRoutingModule } from './app-routing.module';
@@ -24,8 +24,8 @@ import { AtualizarLocalDescarteComponent } from './atualizar-local-descarte/atua
   imports: [
     BrowserModule,
     AppRoutingModule,
-    NgbModule
-  ],
+    NgbModule,
+    FormsModule],
   providers: [],
   bootstrap: [AppComponent]
 })
